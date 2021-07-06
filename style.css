@@ -58,9 +58,7 @@ a{
     border: 1px solid white;
     border-radius: 8px ;
 }
-.first{
-    margin-left: 150px;
-}
+
 .popularity{
     display: flex;
     box-shadow: 10px 10px 40px gray;    

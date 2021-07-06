@@ -39,3 +39,44 @@ a{
 .personal-description{
     width: 50%;
 }
+
+.picture{
+    border-radius: 5px;
+}
+.vsalad{
+    border-radius: 8px;
+}
+#my-recipies{
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 20%;
+    padding: 15px;
+    margin: 80px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px ;
+}
+.first{
+    margin-left: 150px;
+}
+.popularity{
+    display: flex;
+    box-shadow: 10px 10px 40px gray;    
+    margin: 800px 420px 300px 420px;
+    padding: 0px 40px ;
+    border-radius: 8px ;
+    
+}
+.achievements{
+    margin: 20px 20px 20px 20px;
+}
+.hub{
+    color: white;
+    margin-left: 30px;
+}
+.ending{
+    padding-top: 40px;
+    text-align: center;
+    background: black;
+}
